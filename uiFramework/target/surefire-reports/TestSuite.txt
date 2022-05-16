@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-Tests run: 20, Failures: 1, Errors: 0, Skipped: 19, Time elapsed: 3.306 sec <<< FAILURE! - in TestSuite
-beforeSuite(com.uiFramework.ust.experian.testScripts.BankWiazrdQueries)  Time elapsed: 2.679 sec  <<< FAILURE!
-com.codepine.api.testrail.TestRailException: 401 - External auth: Bind: Invalid credentials
-
